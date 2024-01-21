@@ -21,7 +21,8 @@ public class Challenge2 {
                 if(inputNumber<minNumber){
                     minNumber=inputNumber;
                 }
-            }else {
+            }else { // here every if else have used block, if not than else is associated with the
+                // nearest if in the code.
                 break;
             }
             scanner.nextLine();// handles enter key error
