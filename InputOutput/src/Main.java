@@ -10,6 +10,8 @@ public class Main {
         //   here we are creating an object of Scanner class of type Scanner
         Scanner scanner = new Scanner(System.in);
 
+        // Default value of out and in inside the System class is null i.e
+        // their value is command line of system.
         System.out.println("enter your year of birth : ");
 
 
