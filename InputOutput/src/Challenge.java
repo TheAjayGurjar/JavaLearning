@@ -1,6 +1,6 @@
 // Author:- TheAjayGurjar { bsag0001@gmail.com }
 
-// Sum all the number given as input till 11.
+// Sum all the number given as input till 11, Input should be only Int.
 
 import java.util.Scanner;
 
